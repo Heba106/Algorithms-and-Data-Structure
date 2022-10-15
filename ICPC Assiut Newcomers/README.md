@@ -15,3 +15,5 @@
 | Problem Link  | Solution    | 
 | :-----: | :---: | 
 | [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [palindrome.cpp](       ) |
+| [L. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [gcd.cpp](       ) |
+| [Q. Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [digits.cpp](       ) |
