@@ -14,6 +14,6 @@
 ## Sheet  #2 
 | Problem Link  | Solution    | 
 | :-----: | :---: | 
-| [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [palindrome.cpp](       ) |
-| [L. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [gcd.cpp](       ) |
-| [Q. Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [digits.cpp](       ) |
+| [I. Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [palindrome.cpp](https://github.com/Heba106/Algorithms-and-Data-Structure/blob/master/ICPC%20Assiut%20Newcomers/palindrome.cpp) |
+| [L. GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [gcd.cpp](https://github.com/Heba106/Algorithms-and-Data-Structure/blob/master/ICPC%20Assiut%20Newcomers/gcd.cpp) |
+| [Q. Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [digits.cpp](https://github.com/Heba106/Algorithms-and-Data-Structure/blob/master/ICPC%20Assiut%20Newcomers/digits.cpp) |
